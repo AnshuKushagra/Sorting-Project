@@ -16,7 +16,7 @@ Shuffle the data to see different scenarios.
 🕹️ User-Friendly Interface: Easily control the visualization with a few clicks.
 Purpose
 The Sorting Visualizer is designed to help beginners and enthusiasts gain a deeper understanding of sorting algorithms by providing a hands-on learning experience.
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 Visualization of selection, insertion, and bubble sort algorithms in c/c++ with the [raylib](https://github.com/raysan5/raylib) library.<br>
 Includes functionality to choose between each type of sorting algorithm, shuffle lines, and reset app.
 
